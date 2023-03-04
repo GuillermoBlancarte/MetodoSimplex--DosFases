@@ -3,4 +3,4 @@
 
 ### Guillermo Blancarte Cordero - 1843282
 ### Samuel Jabes Zapata Torres - 
-# MetodoSimplex--DosFases
+
